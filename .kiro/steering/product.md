@@ -1,0 +1,2 @@
+# Product steering
+Boo Studio is a standalone Halloween sticker workshop. Keep it dependency-free and local-first. All bundled artwork must be original vector drawing code. Never send user images to a server. Match editor preview and exported PNG. Prefer clear accessible controls and useful empty/error states. Describe only implemented functionality. This file was prepared by Codex for subsequent Kiro development.
